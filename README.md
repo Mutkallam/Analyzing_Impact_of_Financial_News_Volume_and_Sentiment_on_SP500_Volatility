@@ -1,5 +1,5 @@
 # Analyzing S&P 500 Market Reactions to Financial News
-## Tools: Python, Pandas, Matplotlib, VADER Sentiment Analysis, Time Series Analysis
+## Tools: Python (Pandas), Matplotlib/Seaborn, VADER Sentiment Analysis, Time Series Analysis
 
 In this project, I analyzed how financial news volume and sentiment relate to short-term market behavior by integrating daily S&P 500 market data with aggregated financial news headlines from 2010–2023.
 
